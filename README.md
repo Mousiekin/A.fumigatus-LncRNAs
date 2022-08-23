@@ -1,2 +1,2 @@
-# A.fumigatus-LncRNAs
+# A. fumigatus LncRNAs
 Finding LncRNAs in Aspergillus fumigatus
