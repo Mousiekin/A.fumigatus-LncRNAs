@@ -2,4 +2,4 @@
 
 Finding LncRNAs in Aspergillus fumigatus
 
-Test
+![FungalExploration] {images/FungalExploration.png}
