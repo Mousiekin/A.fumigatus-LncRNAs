@@ -18,6 +18,8 @@ Finding LncRNAs in Aspergillus fumigatus
 Scheme makes four different StringTie merged assemblies from the same sample set using different initial StringTie assembly parameters and on all or half the data set, and then merges. This seemed the most conducive to LncRNA retrieval. Novel protein-coding  genes were recovered simultaneously.<br>Workflow implementation capitalises on code and concepts used to uncover LncRNAs in Candida which used the merge of many runs to reveal the RNAPolII LncRNAs.<br>
 Hovhannisyan, H., Gabaldón, T. The long non-coding RNA landscape of Candida yeast pathogens. Nat Commun 12, 7317 (2021).<br> https://doi.org/10.1038/s41467-021-27635-4 https://github.com/Gabaldonlab/lncRNAs
 
+I would like to thank Harry Chown for all his help on this project
+
 ## **Outputs of Pipelines: Data_From_PIPES** 
 > GTF and Fasta files from before expression cut-off and after for all pipelines for both candidate LncRNAs and novel protein coding.<br>
 ## **Detailed workflow for the A1163-UNION pipeline: LncRNA_retrieval_Pipeline.pdf**
